@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Recycled Wool Slippers",
+      "description": "Cozy wool slippers with non-slip soles.",
+      "price": 20.00,
+      "image": "/assets/accessories/wool-slippers.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Silk Eye Mask",
+      "description": "Soft silk mask for better sleep.",
+      "price": 12.00,
+      "image": "/assets/accessories/silk-eye-mask.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Handcrafted Slumber Socks",
+      "description": "Warm knit socks for comfort.",
+      "price": 10.00,
+      "image": "/assets/accessories/slumber-socks.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cashmere Beanie",
+      "description": "Soft cashmere beanie for warmth.",
+      "price": 30.00,
+      "image": "/assets/accessories/cashmere-beanie.jpg"
+    }
+]  

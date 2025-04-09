@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Cotton Lounge Set",
+    "description": "Soft, breathable cotton set.",
+    "price": 45.00,
+    "image": "/assets/apparels/cotton-lounge-set.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Organic Cotton Pajama Set",
+    "description": "Classic cotton pajamas.",
+    "price": 35.00,
+    "image": "/assets/apparels/cotton-pajama-set.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Silk Sleep Set",
+    "description": "Luxurious silk pajamas.",
+    "price": 85.00,
+    "image": "/assets/apparels/silk-sleep-set.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bamboo Nightgown",
+    "description": "Soft bamboo nightgown.",
+    "price": 30.00,
+    "image": "/assets/apparels/bamboo-nightgown.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Thermal Long Sleeve",
+    "description": "Warm thermal top.",
+    "price": 20.00,
+    "image": "/assets/apparels/thermal-long-sleeve.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Knit Sleep Shirt",
+    "description": "Relaxed knit sleep shirt.",
+    "price": 25.00,
+    "image": "/assets/apparels/knit-sleep-shirt.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Wool Knit Sweater",
+    "description": "Cozy wool sweater.",
+    "price": 55.00,
+    "image": "/assets/apparels/wool-knit-sweater.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fleece Zip-Up Hoodie",
+    "description": "Soft fleece hoodie.",
+    "price": 40.00,
+    "image": "/assets/apparels/fleece-zipup-hoodie.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fleece Blanket Hoodie",
+    "description": "Oversized fleece hoodie.",
+    "price": 45.00,
+    "image": "/assets/apparels/fleece-blanket-hoodie.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Knit Lounge Cardigan",
+    "description": "Cozy knit cardigan.",
+    "price": 50.00,
+    "image": "/assets/apparels/knit-lounge-cardigan.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Quilted Vest",
+    "description": "Light quilted vest.",
+    "price": 45.00,
+    "image": "/assets/apparels/quilted-vest.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sherpa Jacket",
+    "description": "Warm sherpa jacket.",
+    "price": 60.00,
+    "image": "/assets/apparels/sherpa-jacket.jpg"
+  }
+]
